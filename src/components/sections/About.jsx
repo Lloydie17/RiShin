@@ -28,7 +28,7 @@ export const About = () => {
             <div className="max-w-3xl mx-auto px-4">
                 <img
                     className="object-cover border-4 border-blue-gray hover:-translate-y-1 transition-all w-60 h-60 rounded-full mx-auto mb-6 cursor-pointer"
-                    src="src\assets\images\profile.jpg"
+                    src="https://firebasestorage.googleapis.com/v0/b/ebarangayconnect-cbd22.appspot.com/o/profile.jpg?alt=media&token=c1cc0c47-e526-44d8-ac81-83fc151570ec"
                     alt="Profile"
                     onClick={() => setIsModalOpen(true)}
                 />
@@ -40,7 +40,7 @@ export const About = () => {
                     >
                         <img
                             className="max-w-full max-h-full rounded-lg"
-                            src="src\assets\images\profile2.jpg"
+                            src="https://firebasestorage.googleapis.com/v0/b/ebarangayconnect-cbd22.appspot.com/o/profile2.jpg?alt=media&token=cb3c754a-773f-49ee-99bf-452a575f9e61"
                             alt="Profile Full"
                         />
                     </div>
