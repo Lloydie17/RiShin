@@ -29,11 +29,12 @@ export const Home = () => {
                         </a>
 
                         <a 
-                            href="#contact" 
+                            href="../../src/assets/files/resume.pdf" 
                             className="border border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-200 
                                 hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.2)] hover:bg-blue-500/10"
+                            download
                         >
-                            Contact Me
+                            Download Resume
                         </a>
                     </div>
                 </div>
